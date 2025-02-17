@@ -169,7 +169,7 @@ namespace Library
                 Console.WriteLine("2. Odstranit knihu");
                 Console.WriteLine("3. Půjčit knihu");
                 Console.WriteLine("4. Vrátit knihu");
-                Console.WriteLine("5. Zobrazit dostupné knihy");
+                Console.WriteLine("5. Zobrazit dostupné knih");
                 Console.WriteLine("6. Zobrazit vypůjčené knihy");
                 Console.WriteLine("7. Zobrazit všechny knihy");
                 Console.WriteLine("8. Konec");
